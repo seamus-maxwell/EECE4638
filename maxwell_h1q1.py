@@ -11,7 +11,3 @@ def divide_by_three(integerlist):
         else:
             output.append(0)
     return output
-
-int_list = [1, 3, 4, 9, 13]
-x = divide_by_three(int_list)
-print(x)
